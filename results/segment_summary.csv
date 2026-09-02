@@ -1,0 +1,4 @@
+Cluster,Customers,Average Tenure,Average Monthly Charges,Churn Rate (%),Average Churn Probability (%),High-Risk Customers,Recommended Strategy
+0,1526,30.55,21.08,7.4,7.23,0,"Maintain customer engagement, loyalty programs and relationship-building"
+1,3189,15.3,67.86,44.03,44.25,987,"Targeted engagement, service improvements, loyalty benefits and personalized communication"
+2,2328,56.95,89.15,15.12,15.07,52,"Maintain customer engagement, loyalty programs and relationship-building"

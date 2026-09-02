@@ -1,0 +1,2 @@
+Total Customers,Total Features,Overall Churn Rate (%),Best Classification Model,Best Accuracy,Best Precision,Best Recall,Best F1-Score,Best ROC-AUC,Optimal K,Silhouette Score,Low Risk Customers,Medium Risk Customers,High Risk Customers
+7043,19,26.54,Logistic Regression,0.8055,0.6572,0.5588,0.604,0.8419,3,0.2388,4374,1630,1039

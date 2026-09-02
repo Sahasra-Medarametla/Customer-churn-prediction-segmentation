@@ -1,0 +1,18 @@
+[
+    {
+        "Total Customers":7043,
+        "Total Features":19,
+        "Overall Churn Rate (%)":26.54,
+        "Best Classification Model":"Logistic Regression",
+        "Best Accuracy":0.8055,
+        "Best Precision":0.6572,
+        "Best Recall":0.5588,
+        "Best F1-Score":0.604,
+        "Best ROC-AUC":0.8419,
+        "Optimal K":3,
+        "Silhouette Score":0.2388,
+        "Low Risk Customers":4374,
+        "Medium Risk Customers":1630,
+        "High Risk Customers":1039
+    }
+]

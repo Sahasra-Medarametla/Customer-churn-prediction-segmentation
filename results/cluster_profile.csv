@@ -1,0 +1,4 @@
+Cluster,tenure,MonthlyCharges,TotalCharges,SeniorCitizen,Churn
+0,30.55,21.08,668.1,0.03,0.07
+1,15.3,67.86,1020.27,0.2,0.44
+2,56.95,89.15,5068.03,0.2,0.15
